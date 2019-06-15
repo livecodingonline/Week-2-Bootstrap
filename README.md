@@ -1,6 +1,6 @@
 ## Week 2 - BOOTSTRAP
 
-Dear student **Congratulations!!** you reach week two. After amazing HTML and CSS lesson, you are going to get deeper front-end understanding with the most popular CSS Framework for responsive and mobile-first webpages.
+Dear students **Congratulations!!** you reach week two. After amazing HTML and CSS lesson, you are going to get deeper front-end understanding with the most popular CSS Framework for responsive and mobile-first webpages.
 
 ### What is bootstrap and Why?
 
