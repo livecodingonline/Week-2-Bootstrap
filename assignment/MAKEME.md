@@ -1,7 +1,9 @@
  ## Week 2 - Assignment-Bootstrap
 
 ### What we have done today?
+
 In this session we have created a web application about bbc-news. Here is the link where you can find it([bbc-news](./bbc-news)). Here are the things which we used to create this page.
+
 1. Introduction of bootstrap(Installation)
 2. Creating a wiframe by balsamic
 3. [Navbar](https://getbootstrap.com/docs/4.3/components/navbar/)
