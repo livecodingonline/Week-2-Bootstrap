@@ -20,7 +20,7 @@ In this session we have created a web application about bbc-news. Here is the li
 
 ## Assignment 
 
-This week we want you to create a personal web-site with the knowledge you currently have(HTML- CSS- BOOTSTRAP). This assignment shoul include at least the elements pointed above(except carousel number 4). You can create your own balsamic wiframe as well. Pleade try to finish your homework before Wednesday and add your homework to the trello card which is called week-2-assignment(https://trello.com/b/feq8kuQ7/live-coding-online-students)
+This week we want you to create a personal web-site with the knowledge you currently have(HTML- CSS- BOOTSTRAP). This assignment shoul include at least the elements pointed above(except carousel number 4). You can create your own balsamic wiframe as well. Please try to finish your homework before Wednesday and add your homework to the trello card which is called week-2-assignment(https://trello.com/b/feq8kuQ7/live-coding-online-students)
 
 1. Open the wiframe(https://balsamiq.cloud/svv0bu8/pksenn2/r2278) . You need to create an account to access wiframe.
 2. Categorize your needs in the HTML
