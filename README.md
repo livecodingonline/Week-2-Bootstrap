@@ -24,7 +24,7 @@ After each assignment in the videos, **please compress all your files and upload
 ---
 
 ### Assignments
-
+In this section you have one [assignment](./assignment) needs to be done before wednesday. 
 ---
 
 ### Sections of this week

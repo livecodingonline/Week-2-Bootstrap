@@ -1,0 +1,89 @@
+/* navigation */
+#navigation{
+    background: #C43B5B;
+}
+
+
+/* caraousel */
+.carousel-item .text{
+    position: absolute;
+    z-index: 1;
+    margin: 0 auto;
+    left: 0;
+    right: 0;        
+    text-align: left;
+    padding-left:5%;
+    top: 88%;
+    background: rgba(110, 74, 74, 0.8);
+    font-family: Arial,sans-serif;
+    color: #fff;
+    width: 100%;
+}
+
+@media only screen and (max-width: 772px) {
+    .carousel-item .text{
+        top:75%;
+        overflow: auto;
+    }
+    .carousel-item img{
+        height:300px;
+    }
+}
+.text{
+    position: relative;
+    display: inline-block;
+}
+
+#carousel{
+    padding:3%;
+    background: #C43B5B;
+}
+
+
+.card img{
+    height: 222px;
+}
+
+.card .card-body{
+    height:220px;
+    overflow: auto;
+}
+
+.carousel-item img{
+    max-height:600px;
+}
+
+.card{
+    margin:4%;
+}
+
+#page-content{
+    margin:3% 3%;
+}
+
+footer{
+    background: #C43B5B;
+}
+
+.container-fluid{
+    padding:3% 5%;
+}
+
+textarea{
+    width:100%;
+    min-height:100px;
+    margin:2%;
+}
+
+#submit-button{
+    float:right;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul li a {
+    color:white
+}
+
